@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5fadb0f-e826-407d-a9f8-2289bb5a3601" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fzm6qNFFufnN0zt2i9a6uAX9wH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/agata/Desktop/Python/PythonCourse",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\agata\Desktop\MES\Kody\MES\code" />
+      <recent name="C:\Users\agata\Desktop\MES\Kody\MES\code\.idea" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5fadb0f-e826-407d-a9f8-2289bb5a3601" name="Changes" comment="" />
+      <created>1665503113343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665503113343</updated>
+      <workItem from="1665503114535" duration="8194000" />
+      <workItem from="1665558954627" duration="551000" />
+      <workItem from="1665563094312" duration="21000" />
+      <workItem from="1665751934199" duration="3190000" />
+      <workItem from="1666267893475" duration="3637000" />
+      <workItem from="1666349393481" duration="39000" />
+      <workItem from="1666363705141" duration="630000" />
+      <workItem from="1666608035966" duration="49000" />
+      <workItem from="1666884006422" duration="2374000" />
+      <workItem from="1666888237501" duration="259000" />
+      <workItem from="1667579499338" duration="753000" />
+      <workItem from="1668703712281" duration="1509000" />
+      <workItem from="1669226608359" duration="6336000" />
+      <workItem from="1669303805807" duration="1431000" />
+      <workItem from="1669497052796" duration="352000" />
+      <workItem from="1669568209516" duration="2155000" />
+      <workItem from="1669638317974" duration="3739000" />
+      <workItem from="1669818418195" duration="15045000" />
+      <workItem from="1670060620052" duration="3010000" />
+      <workItem from="1670428450654" duration="26487000" />
+      <workItem from="1670769220645" duration="10382000" />
+      <workItem from="1670918974933" duration="14000" />
+      <workItem from="1671555525208" duration="6986000" />
+      <workItem from="1671619611955" duration="3429000" />
+      <workItem from="1671623812747" duration="9000" />
+      <workItem from="1671623822983" duration="11000" />
+      <workItem from="1671637993236" duration="4062000" />
+      <workItem from="1671705601174" duration="3838000" />
+      <workItem from="1671723937078" duration="651000" />
+      <workItem from="1672049965956" duration="17000" />
+      <workItem from="1672227315432" duration="516000" />
+      <workItem from="1672229195547" duration="2305000" />
+      <workItem from="1672407502040" duration="877000" />
+      <workItem from="1672761315920" duration="626000" />
+      <workItem from="1672847911485" duration="5631000" />
+      <workItem from="1672890648098" duration="829000" />
+      <workItem from="1672955232174" duration="841000" />
+      <workItem from="1673031445153" duration="955000" />
+      <workItem from="1673032711494" duration="1354000" />
+      <workItem from="1673172273309" duration="8548000" />
+      <workItem from="1673430869954" duration="4275000" />
+      <workItem from="1673717669745" duration="478000" />
+      <workItem from="1673974399512" duration="194000" />
+      <workItem from="1673982072551" duration="15229000" />
+      <workItem from="1674150633229" duration="7499000" />
+      <workItem from="1674159075852" duration="1979000" />
+      <workItem from="1674209705310" duration="24774000" />
+      <workItem from="1674253117354" duration="10000" />
+      <workItem from="1674255574049" duration="645000" />
+      <workItem from="1674399036298" duration="6054000" />
+      <workItem from="1674437999103" duration="10000" />
+      <workItem from="1674470305176" duration="10408000" />
+      <workItem from="1674978873201" duration="46000" />
+      <workItem from="1675061554696" duration="8000" />
+      <workItem from="1675422623715" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/07_10$create_H.coverage" NAME="create_H Coverage Results" MODIFIED="1674158760522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10__kopia$create_H.coverage" NAME="create_H Coverage Results" MODIFIED="1674252176774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MES$mes1.coverage" NAME="mes1 Coverage Results" MODIFIED="1674484261261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10$matrix_H.coverage" NAME="matrix_H Coverage Results" MODIFIED="1674150651996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10__kopia$matrix_H.coverage" NAME="matrix_H Coverage Results" MODIFIED="1674236374578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10$create_Hbc.coverage" NAME="create_Hbc Coverage Results" MODIFIED="1674150656867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10$mes3.coverage" NAME="mes3 Coverage Results" MODIFIED="1670772302857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10__kopia$create_Hbc.coverage" NAME="create_Hbc Coverage Results" MODIFIED="1674246572493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10$gauss.coverage" NAME="gauss Coverage Results" MODIFIED="1666368543746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MES$matrix_H.coverage" NAME="matrix_H Coverage Results" MODIFIED="1674433809738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10$macierzH.coverage" NAME="macierzH Coverage Results" MODIFIED="1670769960073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10$point.coverage" NAME="point Coverage Results" MODIFIED="1670525253902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10$mes2.coverage" NAME="mes2 Coverage Results" MODIFIED="1669229330873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10$mes1.coverage" NAME="mes1 Coverage Results" MODIFIED="1674150665105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/07_10__kopia$mes1.coverage" NAME="mes1 Coverage Results" MODIFIED="1674250790583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/MES$create_H.coverage" NAME="create_H Coverage Results" MODIFIED="1674627300011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+</project>
